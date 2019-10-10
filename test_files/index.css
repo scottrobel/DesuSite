@@ -1,0 +1,95 @@
+@import url(https://web.archive.org/web/20180603152316cs_/http://fonts.googleapis.com/css?family=Ubuntu);
+*{outline: none;}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+        background-color: white;
+        font-size: 2.5vw;
+        font-family: Ubuntu;
+        color: black;
+        overflow: hidden;
+}
+
+.title {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    font-size: 10vw;
+}
+
+.x {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    font-size: 1.5vw;
+    word-spacing: 5%;
+}
+
+.space1 {
+    position: absolute;
+    top: 12%;
+    right: 0%;
+    width: 32%;
+}
+
+.bg {
+    position: absolute;
+    top: -16%;
+    right: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.y {
+    position: absolute;
+    top: 70%;
+    right: 5%;
+    font-size: 1.5vw;
+    word-spacing: 5%;
+}
+
+a:link {
+    text-decoration: none;
+    border-radius: 1px;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    transition: 0.5s ease;
+}
+
+a:active {
+    text-decoration: none;
+}
+/*
+     FILE ARCHIVED ON 15:23:16 Jun 03, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:35:53 Oct 10, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 86.305
+  PetaboxLoader3.datanode: 88.613 (4)
+  load_resource: 203.383
+  exclusion.robots: 0.164
+  exclusion.robots.policy: 0.153
+  esindex: 0.009
+  LoadShardBlock: 70.824 (3)
+  CDXLines.iter: 11.134 (3)
+  PetaboxLoader3.resolve: 155.172
+  RedisCDXSource: 1.833
+*/
